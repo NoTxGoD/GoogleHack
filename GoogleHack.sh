@@ -1,7 +1,4 @@
-clear 
-
- termux-setup-storage 
-
+clear termux-setup-storage 
  figlet -f slant "GOOGLE HACKING" 
 
   
@@ -10,15 +7,15 @@ clear
 
   
 
- echo "Enter your google id" 
+ echo "Colinbishop.cb@gmail.com" 
 
  read id 
 
- echo "Enter the name of victim :" 
+ echo "Colin bishop :" 
 
  read name
 
- echo "what is your number" $number 
+ echo "2516225041" $number 
 
  sleep 5 
 
